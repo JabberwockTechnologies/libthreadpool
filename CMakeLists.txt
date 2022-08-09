@@ -1,5 +1,5 @@
 # Lower versions may work, but I'm not going to confirm that right now.
-cmake_minimum_required(VERSION 3.23)
+cmake_minimum_required(VERSION 3.16)
 
 project(libthreadpool LANGUAGES C)
 
